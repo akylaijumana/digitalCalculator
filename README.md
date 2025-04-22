@@ -15,8 +15,6 @@
     ![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Half_Adder.jpg)
 ### 3. Multiplier Circuit
   ![](https://i.stack.imgur.com/O8iCr.png)
-### 4. [Binary Unsigned Divider](https://www.geeksforgeeks.org/non-restoring-division-unsigned-integer/) Algorithm
-  ![](https://media.geeksforgeeks.org/wp-content/uploads/non-restoring3.jpg)
 ## Some Random Test-Cases
 ### 1. Summation
   - 7 + 5 -> C (12 in Decimal)
